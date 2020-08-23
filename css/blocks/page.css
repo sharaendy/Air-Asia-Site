@@ -1,0 +1,16 @@
+.page__title {
+  color: #FFFFFF;
+  font-size: 72px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.page__title--reviews {
+  margin-bottom: 60px;
+}
+
+.page-content {
+  background: #FFFFFF;
+  color: #000000;
+  padding: 96px 0px;
+}

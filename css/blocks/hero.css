@@ -1,0 +1,22 @@
+.hero__title {
+  font-size: 72px;
+  font-weight: bold;
+  line-height: 1.42;
+  padding-bottom: 21px;
+}
+
+.hero__subtitle {
+  font-size: 18px;
+  padding-bottom: 29px;
+}
+
+.hero__content {
+  width: 45%;
+}
+
+.hero__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 520px;
+}

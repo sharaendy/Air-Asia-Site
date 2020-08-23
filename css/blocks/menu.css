@@ -1,0 +1,27 @@
+/* .menu {
+  position: absolute;
+  top: 34px;
+  left: 164px;
+} */
+
+.menu__list {
+  display: flex;
+}
+
+.menu__item {
+  vertical-align: middle;
+  margin-left: 55px;
+}
+
+.menu__item:first-child {
+  margin: 0px;
+}
+
+.menu__link {
+  font-size: 14px;
+  transition: 0.3s;
+}
+
+.menu__link:hover {
+  color: #f5170f;
+}

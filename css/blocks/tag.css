@@ -1,0 +1,23 @@
+
+.tag {
+  font-size: 13px;
+  color: #333;
+  padding: 11px 18px;
+  border-radius: 35px;
+  background: #E7E7E7;
+  
+}
+
+.tag--bg--green {
+  background: #B9EAE4;
+}
+
+
+.review__tags {
+  display: flex;
+  align-items: flex-start;
+}
+
+.review__tag-item {
+  margin-left: 23px;
+}

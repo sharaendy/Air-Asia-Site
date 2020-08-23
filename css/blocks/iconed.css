@@ -1,0 +1,20 @@
+.iconed-title {
+  display: flex;
+  margin-left: 5px;
+}
+
+.iconed-title__detail {
+  color: #666;
+  font-size: 16px;
+  margin-left: 13px;
+}
+
+.iconed-title__block {
+  display: flex;
+  margin-right: 30px;
+  margin-bottom: 24px;
+}
+
+.iconed-title__block:last-child {
+  margin-right: 0px;
+}

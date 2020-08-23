@@ -1,0 +1,20 @@
+.separator--conteiner{
+  background: url(../../img/decor/Rectangle.jpg) center center no-repeat;
+  width: 100%;
+  min-height: 100%;
+}
+
+.separator__content {
+  background: url(../../img/decor/couple.png) bottom -15px right 38px no-repeat;
+}
+
+.separator__title {
+  display: flex;
+  align-items: flex-end;
+  font-size: 48px;
+  font-weight: bold;
+  color: #FFFFFF;
+  padding: 117px 0px;
+  width: 46%;
+  white-space: pre-wrap;
+}
